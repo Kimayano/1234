@@ -1,0 +1,2 @@
+require "lita/handlers/diary"
+
